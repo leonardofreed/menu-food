@@ -1,0 +1,73 @@
+
+[
+    {
+        "id": 0,
+        "titulo": "Prato do Dia",
+        "descricao": "Saboreia a melhor supresa do dia",
+        "imagem": "../images/marmita.jpg",
+        "preco": "32.30"
+    },
+    {
+        "id": 1,
+        "titulo": "BISTECA SUINA ACEBOLADA C/BATATA FRITA E OVO",
+        "descricao": "Bisteca suina Acebolada - Arroz - Feijão - Ovo - Batata frita - Salada do Dia.",
+        "imagem": "../images/bisteca.webp",
+        "preco": "23.30"
+    },
+    {
+        "id": 2,
+        "titulo": "FILE FRANGO MILANESA C/ BATATA FRITA",
+        "descricao": "File de frango a milanesa, arroz, feijao, ovo, batata frita, salada do Dia",
+        "imagem": "../images/prato5.jpg",
+        "preco": "20.92"
+    },
+    {
+        "id": 3,
+        "titulo": "BIFE GRELHADO COM QUEIJO E BATATA FRITA",
+        "descricao": "Arroz , feijão ,macarrão , batata frita , ovo, bife com queijo batata palha em cima, salada do Dia",
+        "imagem": "../images/prato1.jpg",
+        "preco": "27.00"
+    },
+    {
+        "id": 4,
+        "titulo": "BIFE GRELHADO COM QUEIJO. MN8",
+        "descricao": "Arroz, feijão, macarrão, batata frita, ovo, salada do Dia, bife grelhado com queijo. marmita n8",
+        "imagem": "../images/prato1.jpg",
+        "preco": "20.22"
+    },
+    {
+        "id": 5,
+        "titulo": "BISTECA SUÍNA ACEBOLADA C/OVO",
+        "descricao": "Bisteca suína acebolada, arroz, feijão, macarrão, ovo, salada do Dia. marmita N8",
+        "imagem": "../images/prato4.jpg",
+        "preco": "19.50"
+    },
+    {
+        "id": 6,
+        "titulo": "BIFE ACEBOLADO C/ OVO E BATATA FRITA",
+        "descricao": "Arroz - Feijao - Bife Acebolado - Ovo - Batata frita - Salada do Dia",
+        "imagem": "../images/prato2.jpg",
+        "preco": "23.48"
+    },
+    {
+        "id": 7,
+        "titulo": "BIFE ACEBOLADO C/ OVO ",
+        "descricao": "Bife acebolado contendo Arroz - Feijão - Ovo - salada do Dia",
+        "imagem": "../images/prato3.jpg",
+        "preco": "21.84"
+    },
+    {
+        "id": 8,
+        "titulo": "BIFE A PARMEGIANA",
+        "descricao": "Arroz ,feijão , macarrão , batata frita , salada do Dia ,delicioso bife empanado com queijo e molho de tomate , orégano e batata palha em cima. Marmita executiva. Bife vai separado da marmita.",
+        "imagem": "../images/prato7.jpg",
+        "preco": "21.00"
+    },
+    {
+        "id": 9,
+        "titulo": "BIFE ACEBOLADO COM COCA-COLA 220ML",
+        "descricao": "Arroz , Feijão , macarrão , batata frita , ovo salada do Dia ,coca lata 220ml. marmita n8",
+        "imagem": "../images/prato6.jpg",
+        "preco": "36.00"
+    }
+]
